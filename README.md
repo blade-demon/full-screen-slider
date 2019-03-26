@@ -14,7 +14,7 @@
 
 ## Large Screenshot
 
-![LargeScreen](https://ws4.sinaimg.cn/large/006tKfTcgy1g1g2mlwbu8g313n0keqvc.gif)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1g1g3fj0u6vg30kz0lp7wl.gif)
 
 ## Small Screenshot
 
